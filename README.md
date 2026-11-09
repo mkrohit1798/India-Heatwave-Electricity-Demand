@@ -9,6 +9,6 @@ states (2014 to 2024) and explores how temperature drives demand.
 
 ## How to run
 1. Install the tools: `pip install -r requirements.txt`
-2. Download the dataset from (add the website here) and save it as
+2. Download the dataset from (https://www.kaggle.com/datasets/sanaarizvi/india-heatwave-and-power-stress-dataset-20142024)) and save it as
    `data/final_dataset.csv`
 3. Open `notebooks/01_data_cleaning_and_eda.ipynb` and run all cells.
