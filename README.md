@@ -90,6 +90,8 @@ The rupee totals are illustrative. Comparisons between options and the sensitivi
 ├── README.md
 ├── requirements.txt
 ├── data/
+    └── processed/
+        └── clean_daily.csv
 │   └── final_dataset.csv
 ├── notebooks/
 │   └── India_Heatwave_analysis_2014_2025.ipynb
